@@ -198,6 +198,11 @@ special instructions.
 </p>
 {% endif %}
 
+<p id="registration">
+  <strong>Registration:</strong>
+  This workshop requires preregistration. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5IN2m5lfs1PapNRn99ipjlP7MGdWp1x9OfiQTxkfbBPJ9ZQ/viewform">register here</a>.
+</p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
